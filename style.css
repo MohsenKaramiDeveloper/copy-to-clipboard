@@ -13,3 +13,11 @@ body{
     align-items: center;
     height: 100vh;
 }
+
+.container {
+    width: 400px;
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+
+}
