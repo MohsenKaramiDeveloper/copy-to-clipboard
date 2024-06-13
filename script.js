@@ -5,5 +5,5 @@ copybtn.addEventListener('click', () =>{
     textarea.select()
     let textvalue = textarea.value
 
-    navigator.clipboard.writeText('textvalue')
+    navigator.clipboard.writeText(textvalue)
 })
