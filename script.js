@@ -3,4 +3,5 @@ const textarea = document.querySelector('textarea')
 
 copybtn.addEventListener('click', () =>{
     textarea.select()
+    let textvalue = textarea.value
 })
