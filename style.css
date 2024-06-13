@@ -7,7 +7,7 @@
 }
 
 body{
-    background: green;
+    background: rgb(14, 144, 177);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,11 +28,17 @@ body{
     width: 100%;
     padding: 15px 10px;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 30px;
     margin: 5px 0;
 }
 
 .container textarea{
     border:1px solid gray ;
     height: 200px;
+}
+
+
+.container button{
+    background: #0c7cb0;
+    color: white;
 }
