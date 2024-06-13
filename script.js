@@ -1,3 +1,3 @@
 const copybtn = document.querySelector('button')
-// const textarea = document.querySelector('textarea')
+const textarea = document.querySelector('textarea')
 
