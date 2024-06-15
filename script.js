@@ -8,7 +8,7 @@ copybtn.addEventListener('click', () =>{
     navigator.clipboard.writeText(textvalue)
     copybtn.innerText = 'copied !'
 
-delete line 10 t0 15
+
 
     
 })
