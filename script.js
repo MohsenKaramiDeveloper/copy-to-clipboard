@@ -6,7 +6,7 @@ copybtn.addEventListener('click', () =>{
     let textvalue = textarea.value
 
     navigator.clipboard.writeText(textvalue)
-    copybtn.innerText = 'copied !'
+    // copybtn.innerText = 'copied !'
 
 
 
