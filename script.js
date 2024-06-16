@@ -11,6 +11,7 @@ copybtn.addEventListener('click', () =>{
 
     setTimeout(() =>{
         copybtn.innerText = 'Copy'
+        copybtn.style.backgroundColor = '#0c7cb0'
         
     }, 2000)
 
