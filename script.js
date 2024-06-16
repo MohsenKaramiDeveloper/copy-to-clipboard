@@ -32,7 +32,7 @@ copybtn.addEventListener('click', () =>{
     copybtn.innerText = 'copied !'
     copybtn.style.backgroundColor = '#011140'
 
-    // setTimeout(() =>{
+    setTimeout(() =>{
     //     copybtn.innerText = 'Copy'
     //     copybtn.style.backgroundColor = '#1E0BDB'
         
