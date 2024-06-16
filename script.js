@@ -26,9 +26,9 @@ const textarea = document.querySelector('textarea')
 
 copybtn.addEventListener('click', () =>{
     textarea.select()
-    // let textvalue = textarea.value
+    let textvalue = textarea.value
 
-    // navigator.clipboard.writeText(textvalue)
+    navigator.clipboard.writeText(textvalue)
     // copybtn.innerText = 'copied !'
     // copybtn.style.backgroundColor = '#011140'
 
