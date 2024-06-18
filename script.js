@@ -16,6 +16,7 @@ copybtn.addEventListener('click', () =>{
     // added by mohsen
 
     copybtn.style.color = '#434B58'
+    copybtn.style.borderWidth = '2px '
 
 
 
