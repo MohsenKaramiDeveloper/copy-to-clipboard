@@ -46,19 +46,3 @@ body{
 /* css done */
 
 
-button {
-    transition: background-color 0.3s ease, color 0.3s ease;
-}
-
-.button-animation {
-    animation: fade-in 0.3s ease;
-}
-
-@keyframes fade-in {
-    0% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-}
