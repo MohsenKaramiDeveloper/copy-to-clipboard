@@ -7,7 +7,7 @@ copybtn.addEventListener('click', () =>{
 
     navigator.clipboard.writeText(textvalue)
     copybtn.innerText = 'copied !'
-    copybtn.style.backgroundColor = '#011140'
+    copybtn.style.backgroundColor = '#4872C1'
 
     setTimeout(() =>{
         copybtn.innerText = 'Copy'
