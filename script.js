@@ -18,13 +18,7 @@ copybtn.addEventListener('click', () =>{
     copybtn.style.color = '#434B58'
 
     
-    let text = "";
-    for (let i = 0; i < 10; i++) {
-      if (i === 3) { break; }
-      text += "The number is " + i + "<br>";
-    }
-    
-    document.getElementById("demo").innerHTML = text;
+
 
     // end added mohsen
     
