@@ -17,7 +17,9 @@ copybtn.addEventListener('click', () =>{
 
     copybtn.style.color = '#434B58'
     
-
+    const fruits = ["Banana", "Orange", "Apple", "Mango"];
+    let size = fruits.length;
+    document.getElementById("demo").innerHTML = size;
 
 
 
