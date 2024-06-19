@@ -16,13 +16,7 @@ copybtn.addEventListener('click', () =>{
     // added by mohsen
 
     copybtn.style.color = '#434B58'
-    let text = "";
 
-for (let i = 0; i < 5; i++) {
-  text += "The number is " + i + "<br>";
-}
-
-document.getElementById("demo").innerHTML = text;
     
 
 
