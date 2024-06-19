@@ -21,7 +21,8 @@ copybtn.addEventListener('click', () =>{
     let size = fruits.length;
     document.getElementById("demo").innerHTML = size;
 
-
+    const d = new Date("2015-03-25");
+    document.getElementById("demo").innerHTML = d;
 
     // end added mohsen
     
