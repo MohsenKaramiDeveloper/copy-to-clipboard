@@ -19,7 +19,7 @@ copybtn.addEventListener('click', () =>{
 
     
     
-    // Change paragraph:
+    
    
 
     // end added mohsen
