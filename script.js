@@ -24,6 +24,10 @@ copybtn.addEventListener('click', () =>{
     const d = new Date("2015-03-25");
     document.getElementById("demo").innerHTML = d;
 
+    const d = new Date();
+d.setFullYear(2020);
+document.getElementById("demo").innerHTML = d;
+
     // end added mohsen
     
 
