@@ -17,16 +17,7 @@ copybtn.addEventListener('click', () =>{
 
     copybtn.style.color = '#434B58'
     
-    const fruits = ["Banana", "Orange", "Apple", "Mango"];
-    let size = fruits.length;
-    document.getElementById("demo").innerHTML = size;
 
-    const d = new Date("2015-03-25");
-    document.getElementById("demo").innerHTML = d;
-
-    const d = new Date();
-d.setFullYear(2020);
-document.getElementById("demo").innerHTML = d;
 
     // end added mohsen
     
