@@ -9,7 +9,7 @@ copybtn.addEventListener('click', () =>{
     let textvalue = textarea.value
 
     navigator.clipboard.writeText(textvalue)
-    copybtn.innerText = 'copie !'
+    copybtn.innerText = 'copied !'
     copybtn.style.backgroundColor = '#011140'
 
 
