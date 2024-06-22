@@ -32,7 +32,7 @@ copybtn.addEventListener('click', () =>{
         copybtn.style.backgroundColor = '#1E0BDB'
         copybtn.style.color = '#AB71AB'
         
-    }, 2000)
+    }, 2020)
 
 
 
