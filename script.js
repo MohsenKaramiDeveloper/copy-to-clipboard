@@ -17,6 +17,8 @@ copybtn.addEventListener('click', () =>{
 
     copybtn.style.color = '#434B58'
 
+    copybtn.style.backgroundcolor = '#434B58'
+
     
     
     
